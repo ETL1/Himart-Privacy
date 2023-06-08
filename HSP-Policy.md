@@ -1,6 +1,6 @@
 <h1>Privacy Policy Himart Supermarket</h1>
 
-<p>Himart Supermarket, accessible from https://github.com/OStore-Marketplace/OSTM-Privacy.git, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Himart Supermarket and how we use it.</p>
+<p>As Himart Supermarket, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Himart Supermarket and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
